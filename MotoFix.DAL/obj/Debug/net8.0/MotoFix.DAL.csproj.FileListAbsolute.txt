@@ -1,0 +1,13 @@
+D:\MotoFix\MotoFix.DAL\bin\Debug\net8.0\MotoFix.DAL.deps.json
+D:\MotoFix\MotoFix.DAL\bin\Debug\net8.0\MotoFix.DAL.dll
+D:\MotoFix\MotoFix.DAL\bin\Debug\net8.0\MotoFix.DAL.pdb
+D:\MotoFix\MotoFix.DAL\obj\Debug\net8.0\MotoFix.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\MotoFix\MotoFix.DAL\obj\Debug\net8.0\MotoFix.DAL.AssemblyInfoInputs.cache
+D:\MotoFix\MotoFix.DAL\obj\Debug\net8.0\MotoFix.DAL.AssemblyInfo.cs
+D:\MotoFix\MotoFix.DAL\obj\Debug\net8.0\MotoFix.DAL.csproj.CoreCompileInputs.cache
+D:\MotoFix\MotoFix.DAL\obj\Debug\net8.0\MotoFix.DAL.dll
+D:\MotoFix\MotoFix.DAL\obj\Debug\net8.0\refint\MotoFix.DAL.dll
+D:\MotoFix\MotoFix.DAL\obj\Debug\net8.0\MotoFix.DAL.pdb
+D:\MotoFix\MotoFix.DAL\obj\Debug\net8.0\ref\MotoFix.DAL.dll
+D:\MotoFix\MotoFix.DAL\obj\Debug\net8.0\MotoFix.DAL.csproj.AssemblyReference.cache
+D:\MotoFix\MotoFix.DAL\obj\Debug\net8.0\MotoFix.DAL.sourcelink.json

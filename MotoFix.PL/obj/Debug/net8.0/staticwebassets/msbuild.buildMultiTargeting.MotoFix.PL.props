@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MotoFix.PL.props" />
+</Project>

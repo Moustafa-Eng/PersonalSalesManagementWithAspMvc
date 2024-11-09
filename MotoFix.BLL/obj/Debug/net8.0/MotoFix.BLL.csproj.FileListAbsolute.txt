@@ -1,0 +1,16 @@
+D:\MotoFix\MotoFix.BLL\bin\Debug\net8.0\MotoFix.BLL.deps.json
+D:\MotoFix\MotoFix.BLL\bin\Debug\net8.0\MotoFix.BLL.dll
+D:\MotoFix\MotoFix.BLL\bin\Debug\net8.0\MotoFix.BLL.pdb
+D:\MotoFix\MotoFix.BLL\bin\Debug\net8.0\MotoFix.DAL.dll
+D:\MotoFix\MotoFix.BLL\bin\Debug\net8.0\MotoFix.DAL.pdb
+D:\MotoFix\MotoFix.BLL\obj\Debug\net8.0\MotoFix.BLL.csproj.AssemblyReference.cache
+D:\MotoFix\MotoFix.BLL\obj\Debug\net8.0\MotoFix.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\MotoFix\MotoFix.BLL\obj\Debug\net8.0\MotoFix.BLL.AssemblyInfoInputs.cache
+D:\MotoFix\MotoFix.BLL\obj\Debug\net8.0\MotoFix.BLL.AssemblyInfo.cs
+D:\MotoFix\MotoFix.BLL\obj\Debug\net8.0\MotoFix.BLL.csproj.CoreCompileInputs.cache
+D:\MotoFix\MotoFix.BLL\obj\Debug\net8.0\MotoFix..E9738BAD.Up2Date
+D:\MotoFix\MotoFix.BLL\obj\Debug\net8.0\MotoFix.BLL.dll
+D:\MotoFix\MotoFix.BLL\obj\Debug\net8.0\refint\MotoFix.BLL.dll
+D:\MotoFix\MotoFix.BLL\obj\Debug\net8.0\MotoFix.BLL.pdb
+D:\MotoFix\MotoFix.BLL\obj\Debug\net8.0\ref\MotoFix.BLL.dll
+D:\MotoFix\MotoFix.BLL\obj\Debug\net8.0\MotoFix.BLL.sourcelink.json

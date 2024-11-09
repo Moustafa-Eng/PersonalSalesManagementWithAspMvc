@@ -1,0 +1,52 @@
+﻿@model ProductViewModel
+
+@{
+    var categories = new SelectList(@ViewBag.Categories, "Id", "Name");
+    var suppliers = new SelectList(ViewBag.Suppliers, "Id", "Name");
+}
+
+
+    <div class="form-group mb-3">
+        <label class="fs-3">أسم المنتج</label>
+        <input asp-for="Name" class="form-control mt-2">
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mb-3">
+        <label class="fs-4">عدد القطع</label>
+        <input asp-for="QuantityInStock" class="form-control mt-2">
+        <span asp-validation-for="QuantityInStock" class="text-danger"></span>
+
+    </div>
+
+    <div class="form-group mb-3">
+        <label class="fs-4 ">سعر الشراء</label>
+        <input asp-for="PurchasePrice" class="form-control mt-2">
+        <span asp-validation-for="PurchasePrice" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mb-3">
+        <label class="fs-4">سعر البيع</label>
+        <input asp-for="SellingPrice" class="form-control mt-2">
+        <span asp-validation-for="SellingPrice" class="text-danger"></span>
+    </div>
+
+
+    <div class="form-group mb-3">
+        <label asp-for="Category" class="control-label  fs-4">التصنيف</label>
+        <select class="form-control mt-2" asp-items="@categories" asp-for="CategoryId">
+            <option value="@null">اختر التصنيف</option>
+        </select>
+    </div>
+
+    <div class="form-group mb-3">
+        <label asp-for="Supplier" class="control-label mt-2 fs-4">أسم التاجر</label>
+        <select class="form-control mt-2" asp-items="@suppliers" asp-for="SupplierId">
+            <option value="@null">اختر التاجر</option>
+        </select>
+    </div>
+
+    <div class="mt-3 d-flex justify-content-center">
+        <a asp-action="Index" class="btn btn-outline-warning text-black fw-bold px-4 py-2 m-2">رجوع</a>
+        <input type="submit" value="حفظ" class="btn btn-primary  px-4 py-2 m-2" />
+    </div>

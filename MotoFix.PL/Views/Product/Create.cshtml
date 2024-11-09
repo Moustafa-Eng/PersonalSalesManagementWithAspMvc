@@ -1,0 +1,23 @@
+﻿@model ProductViewModel
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (TempData["Message"] is not null)
+{
+    <h4 id="messageBox" class="alert alert-success  text-center  p-3 rounded-3">
+        @TempData["Message"]
+    </h4>
+}
+
+<form asp-action="Create">
+
+    <partial name="PartialViews/CreateEditPartialView" />
+
+</form>
+
+@section ValidationScriptSection {
+    <partial name="_ValidationScriptsPartial" />
+}
+

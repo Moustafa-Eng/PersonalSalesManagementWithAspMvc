@@ -1,0 +1,16 @@
+﻿@model ProductViewModel
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form asp-action="Edit">
+
+    <partial name="PartialViews/CreateEditPartialView" />
+
+</form>
+
+@section ValidationScriptSection {
+    <partial name="_ValidationScriptsPartial" />
+}
+
